@@ -1,5 +1,5 @@
 {
-  "blueprints": [
+  "blueprints"2: [
     {
       "name": "dumb-s",
       "description": "Generates a dumb react component in shared components",
